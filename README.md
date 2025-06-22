@@ -1,3 +1,12 @@
+# AD
+
+## I am thinking about sell the Kilmu- panel activator cracker source.
+
+我正考虑出售Kilmu固件池破解器的源码，包括算法、编译成品、源码。以及市面上几乎所有固件激活器的破解方法。
+
+Price: 380 USDT
+
+
 # DMA Activator Documentation
 
 ## Signal Configuration Guide / 信号配置指南
